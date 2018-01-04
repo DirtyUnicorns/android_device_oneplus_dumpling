@@ -28,7 +28,6 @@
 DEVICE_PATH := device/oneplus/dumpling
 
 # Assertions
-TARGET_BOARD_INFO_FILE ?= $(DEVICE_PATH)/board-info.txt
 TARGET_OTA_ASSERT_DEVICE := dumpling
 
 # Bluetooth

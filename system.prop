@@ -1,1 +1,4 @@
 DEVICE_PROVISIONED=1
+
+# DU Updater
+ro.du.updater=dumpling
