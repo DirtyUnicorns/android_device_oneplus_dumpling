@@ -45,4 +45,4 @@ PRODUCT_COPY_FILES += \
 # Inherit from oneplus msm8998-common
 $(call inherit-product, device/oneplus/msm8998-common/common.mk)
 
-PLATFORM_SECURITY_PATCH_OVERRIDE := 2020-02-05
+PLATFORM_SECURITY_PATCH_OVERRIDE := 2020-03-05
